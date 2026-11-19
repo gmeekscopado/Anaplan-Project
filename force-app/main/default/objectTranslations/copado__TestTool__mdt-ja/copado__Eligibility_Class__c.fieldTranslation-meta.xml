@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>QualityGateEligibility を実装するオプションの Apex クラスです。SOQL を使用してはなりません。エラーが発生した場合は、処理を続行します。</help>
+    <label><!-- Eligibility Class --></label>
+    <name>copado__Eligibility_Class__c</name>
+</CustomFieldTranslation>

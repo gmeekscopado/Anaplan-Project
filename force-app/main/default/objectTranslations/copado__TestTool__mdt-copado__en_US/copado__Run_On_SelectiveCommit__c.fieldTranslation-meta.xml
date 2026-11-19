@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Run the quality gate when a matching change of this tool has the Selective Commit commit operation. Only used when Operation Aware is checked. --></help>
+    <label><!-- Run On Selective Commit --></label>
+    <name>copado__Run_On_SelectiveCommit__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>このツールの対応する変更に「選択的コミット」というコミット操作が含まれている場合、品質ゲートを実行します。「操作を認識」にチェックが入っている場合にのみ使用されます。</help>
+    <label><!-- Run On Selective Commit --></label>
+    <name>copado__Run_On_SelectiveCommit__c</name>
+</CustomFieldTranslation>

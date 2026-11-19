@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>テスト結果が即時実行によるものか、スケジュールされた実行によるものかを識別します。</help>
+    <label><!-- Execution Type --></label>
+    <name>copado__Execution_Type__c</name>
+</CustomFieldTranslation>

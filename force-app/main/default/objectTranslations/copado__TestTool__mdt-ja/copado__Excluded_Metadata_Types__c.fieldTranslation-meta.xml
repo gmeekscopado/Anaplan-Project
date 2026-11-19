@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>適用対象リストから除外されるメタデータタイプをカンマ区切りで指定します。プレフィックス * がサポートされています。大文字小文字は区別されません。</help>
+    <label><!-- Excluded Metadata Types --></label>
+    <name>copado__Excluded_Metadata_Types__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>クレデンシャルが「接続済みアプリ」または「外部クライアントアプリ」を介して接続されているかどうかを表示します</help>
+    <label><!-- Authentication Identity Type --></label>
+    <name>copado__Authentication_Identity_Type__c</name>
+</CustomFieldTranslation>

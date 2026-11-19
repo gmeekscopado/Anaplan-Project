@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Comma-separated metadata types this tool applies to. Blank or * means all types. Prefix* is supported (for example Apex*). Case-insensitive. --></help>
+    <label>適用可能なメタデータタイプ</label>
+    <name>copado__Applicable_Metadata_Types__c</name>
+</CustomFieldTranslation>

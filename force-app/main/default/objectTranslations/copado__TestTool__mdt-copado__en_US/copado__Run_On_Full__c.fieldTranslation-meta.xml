@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Run the quality gate when a matching change of this tool has the Full commit operation. Only used when Operation Aware is checked. --></help>
+    <label><!-- Run On Full --></label>
+    <name>copado__Run_On_Full__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>copado__Applicable_Metadata_Types__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Comma-separated metadata types this tool applies to. Blank or * means all types. Prefix* is supported (for example Apex*). Case-insensitive.</description>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Comma-separated metadata types this tool applies to. Blank or * means all types. Prefix* is supported (for example Apex*). Case-insensitive.</inlineHelpText>
+    <label>Applicable Metadata Types</label>
+    <length>131072</length>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

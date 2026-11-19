@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Optional Apex class implementing QualityGateEligibility. Enter MyClass, namespace.MyClass or Outer.Inner. Must not use SOQL. If the class is not found or fails, the gate runs. --></help>
+    <label>適格性クラス</label>
+    <name>copado__Eligibility_Class__c</name>
+</CustomFieldTranslation>

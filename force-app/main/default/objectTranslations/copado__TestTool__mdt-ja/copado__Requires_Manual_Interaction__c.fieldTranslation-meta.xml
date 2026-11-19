@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>このテストツールを自動で完了できず、人の操作が必要な場合にこのチェックボックスをオンにしてください。</help>
+    <label><!-- Requires Manual Interaction --></label>
+    <name>copado__Requires_Manual_Interaction__c</name>
+</CustomFieldTranslation>

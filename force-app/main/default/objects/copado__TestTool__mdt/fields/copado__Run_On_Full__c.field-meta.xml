@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>copado__Run_On_Full__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Run the quality gate when a matching change of this tool has the Full commit operation. Only used when Operation Aware is checked.</description>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Run the quality gate when a matching change of this tool has the Full commit operation. Only used when Operation Aware is checked.</inlineHelpText>
+    <label>Run On Full</label>
+    <type>Checkbox</type>
+</CustomField>

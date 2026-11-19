@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>copado__Operation_Aware__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Opt in to operation-aware quality gates. When unchecked the tool always runs (legacy behavior).</description>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Opt in to operation-aware quality gates. When unchecked the tool always runs (legacy behavior).</inlineHelpText>
+    <label>Operation Aware</label>
+    <type>Checkbox</type>
+</CustomField>

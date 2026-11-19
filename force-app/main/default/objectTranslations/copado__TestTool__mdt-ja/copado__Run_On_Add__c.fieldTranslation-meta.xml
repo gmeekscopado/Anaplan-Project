@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>このツールに該当する変更に「追加」コミット操作が含まれる場合に、品質ゲートを実行します。「操作を認識」がチェックされている場合にのみ使用されます。</help>
+    <label><!-- Run On Add --></label>
+    <name>copado__Run_On_Add__c</name>
+</CustomFieldTranslation>

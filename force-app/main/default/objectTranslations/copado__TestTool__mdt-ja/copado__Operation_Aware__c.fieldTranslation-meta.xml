@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>操作認識型品質ゲートにオプトインします。チェックを外すと、ツールは常に実行されます（従来の動作）。</help>
+    <label><!-- Operation Aware --></label>
+    <name>copado__Operation_Aware__c</name>
+</CustomFieldTranslation>

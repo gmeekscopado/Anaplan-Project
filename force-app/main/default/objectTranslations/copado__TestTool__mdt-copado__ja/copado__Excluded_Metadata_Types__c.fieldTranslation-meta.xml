@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Comma-separated metadata types removed from the applicable list. Prefix* is supported. Case-insensitive. --></help>
+    <label>除外されるメタデータタイプ</label>
+    <name>copado__Excluded_Metadata_Types__c</name>
+</CustomFieldTranslation>

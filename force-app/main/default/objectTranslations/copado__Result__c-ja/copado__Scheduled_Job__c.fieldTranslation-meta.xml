@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>この結果を生み出したスケジュールされたジョブです。即時実行の場合は空欄となります。</help>
+    <label><!-- Scheduled Job --></label>
+    <name>copado__Scheduled_Job__c</name>
+    <relationshipLabel><!-- Results --></relationshipLabel>
+</CustomFieldTranslation>
